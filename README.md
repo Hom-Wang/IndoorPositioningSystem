@@ -10,4 +10,4 @@ UWB Node 是一款 UWB 室內定位開發模組，採用 STM32F411CE 芯片以�
 UWB Adapter 是一款主要是以電腦開發為主的 UWB 室內定位模組，算是一個簡化版的 KDWM1000，將感測器去掉，並結合具 VCP 功能的 JLINK 燒錄器，隨身碟的外型，只需要插入 USB 孔，就可以燒錄程式，透過 UART 與控制器通訊。
 
 # Experiment  
-- UWB Adapter 一對一測距實驗
+- [UWB Adapter 一對一測距實驗](https://github.com/Hom-Wang/IndoorPositioningSystem/tree/master/uwbDistance)
